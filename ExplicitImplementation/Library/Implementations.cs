@@ -19,6 +19,11 @@ namespace Library
             // this changes is done for ticket no. cc-8888 by harshad dave
 	   // again made changes in this file to check changes between this branch and BBTchanges.
         }
+
+	public string BBTchanges()
+	{
+		return "this branch is created from specified comment before change made in cc-8888 ticket ";
+	}
     }
 
     public class ExplicitCatalog : ISaveable, IPersistable
