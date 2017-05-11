@@ -17,6 +17,11 @@ namespace Library
         {
             return "Catalog Save";
         }
+
+	public string BBTchanges()
+	{
+		return "this branch is created from specified comment before change made in cc-8888 ticket ";
+	}
     }
 
     public class ExplicitCatalog : ISaveable, IPersistable
