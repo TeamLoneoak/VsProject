@@ -1,0 +1,8 @@
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\bin\Debug\OutputViewer.exe.config
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\bin\Debug\OutputViewer.exe
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\bin\Debug\OutputViewer.pdb
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\bin\Debug\Library.dll
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\bin\Debug\Library.pdb
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csprojResolveAssemblyReference.cache
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.exe
+c:\users\hdave\documents\visual studio 2015\Projects\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.pdb
