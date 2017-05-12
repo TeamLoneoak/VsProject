@@ -22,6 +22,11 @@ namespace Library
 	   // again made changes in this file to check changes between this branch and BBTchanges.
 	//check ammend commit
         }
+
+	public string BBTchanges()
+	{
+		return "this branch is created from specified comment before change made in cc-8888 ticket ";
+	}
     }
 
     public class ExplicitCatalog : ISaveable, IPersistable
